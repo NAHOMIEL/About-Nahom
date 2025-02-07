@@ -1,4 +1,4 @@
-#👋 **Hi, I'm **Nahom!********
+## *Hi, I'm **Nahom!**
 Welcome to my GitHub profile! I'm a passionate **Frontend Developer** 🚀 with experience in **HTML, CSS, JavaScript, React.js, Vue.js, and Tailwind CSS**. I'm currently learning **Flutter and mobile development**.
 
 ## 🔥 What I Do:
