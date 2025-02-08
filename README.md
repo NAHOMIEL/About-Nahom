@@ -1,4 +1,4 @@
-I'm a Junior #Full-Stack Developer# dedicated to building intuitive web and mobile applications. With expertise in front-end technologies like HTML, CSS, and JavaScript, I specialize in creating responsive and visually appealing designs using frameworks such as TailwindCSS, React.js, and Vue.js.
+I'm a Junior Full-Stack Developer, dedicated to building intuitive web and mobile applications. With expertise in front-end technologies like HTML, CSS, and JavaScript, I specialize in creating responsive and visually appealing designs using frameworks such as TailwindCSS, React.js, and Vue.js.
 
 For cross-platform mobile development, I leverage Flutter and Dart to deliver high-performance apps that cater to diverse user needs. On the backend, my skills in Node.js and Express.js allow me to design and implement scalable APIs , while my familiarity with Python enables me to tackle complex backend logic efficiently.
 
