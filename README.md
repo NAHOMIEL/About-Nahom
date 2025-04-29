@@ -1,5 +1,7 @@
-I'm a Junior Full-Stack Developer, dedicated to building intuitive web and mobile applications. With expertise in front-end technologies like HTML, CSS, and JavaScript, I specialize in creating responsive and visually appealing designs using frameworks such as TailwindCSS, React.js, and Vue.js.
+Hey, I’m Nahom! 👋- a passionate Frontend Developer and UI UX Desginer, driven by curiosity,
+creativity, and a deep desire to solve real-world problems through technology. Over the past year,
+I’ve built strong skills in HTML, CSS, JavaScript, and frameworks like React.js and Tailwind CSS.
+I’ve also expanded into UI/UX Design and logo creation using tools like Figma & Adobe XD.
 
-For cross-platform mobile development, I leverage Flutter and Dart to deliver high-performance apps that cater to diverse user needs. On the backend, my skills in Node.js and Express.js allow me to design and implement scalable APIs , while my familiarity with Python enables me to tackle complex backend logic efficiently.
-
-Additionally, I have foundational knowledge of SQL, which helps me manage relational databases effectively. As a continuous learner, I strive to stay updated with emerging trends in software development, ensuring that every project I work on meets the highest standards of quality and innovation. I thrive in collaborative environments and enjoy solving real-world problems through creative and technical solutions. Let's connect if you're looking for someone eager to contribute to your next big idea!
+Beyond coding, I’m committed to continuous learning and personal growth. Whether it's creating clean,
+responsive user interfaces or animating meaningful brand visuals, I aim to blend design and functionality to create products that stand out.
